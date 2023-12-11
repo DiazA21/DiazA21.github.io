@@ -18,7 +18,27 @@ h2,h3,h4,em {
     color: #785964;
 }
 
-#image {
-    border: darkslategrey;
-    border-style: groove;
+.maps {
+    width: 150mm;
+    height: 120mm;
 }
+
+#image {
+    background-color:#785964 ;
+    height: 600px;
+    width: 560px;
+    border: 5px solid black;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+img {
+    width: 150mm;
+    height: 180mm;
+}
+
+.vlog {
+    width: 150mm;
+    height: 120mm;
+}
+
